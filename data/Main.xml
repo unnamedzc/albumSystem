@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<nav title="a">
+		<album title="a1">data/a1.xml</album>
+		<album title="a2">data/a2.xml</album>
+		<album title="a3">data/a1.xml</album>
+		<album title="a4">data/a2.xml</album>
+		<album title="a5">data/a1.xml</album>
+		<album title="a6">data/a2.xml</album>
+		<album title="a7">data/a1.xml</album>
+		<album title="a8">data/a2.xml</album>
+		<album title="a9">data/a1.xml</album>
+		<album title="a10">data/a2.xml</album>
+		<album title="a11">data/a1.xml</album>
+		<album title="a12">data/a2.xml</album>
+	</nav>
+	<nav title="b">
+		<album title="b1">data/a1.xml</album>
+		<album title="b2">data/a2.xml</album>
+		<album title="b1111">data/a1.xml</album>
+		<album title="b2222">data/a2.xml</album>
+		<album title="b1333">data/a1.xml</album>
+		<album title="b14442">data/a2.xml</album>
+		<album title="b44441">data/a1.xml</album>
+		<album title="b55552">data/a2.xml</album>
+		<album title="b55551">data/a1.xml</album>
+		<album title="b6662">data/a2.xml</album>
+		<album title="b7771">data/a1.xml</album>
+		<album title="b7772">data/a2.xml</album>
+	</nav>
+	<nav title="c">
+		<album title="王平">data/a1.xml</album>
+		<album title="单佳杰">data/a2.xml</album>
+		<album title="张弛">data/a1.xml</album>
+		<album title="张真">data/a2.xml</album>
+		<album title="b1333">data/a1.xml</album>
+		<album title="b14442">data/a2.xml</album>
+		<album title="b44441">data/a1.xml</album>
+		<album title="b55552">data/a2.xml</album>
+		<album title="b55551">data/a1.xml</album>
+		<album title="b6662">data/a2.xml</album>
+		<album title="b7771">data/a1.xml</album>
+		<album title="b7772">data/a2.xml</album>
+	</nav>
+</data>

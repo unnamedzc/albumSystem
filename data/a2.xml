@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<pics id="1" title="照片库a11" picUrl="Upload/ss.jpg">data/pics1.xml</pics>
+	<pics id="2" title="照片库a12" picUrl="Upload/ss.jpg">data/pics2.xml</pics>
+	<pics id="3" title="照片库a13" picUrl="Upload/ss.jpg">data/pics3.xml</pics>
+	<pics id="4" title="照片库a14" picUrl="Upload/ss.jpg">data/pics1.xml</pics>
+	<pics id="5" title="照片库a15" picUrl="Upload/ss.jpg">data/pics2.xml</pics>
+	<pics id="6" title="照片库a16" picUrl="Upload/ss.jpg">data/pics3.xml</pics>
+	<pics id="7" title="照片库a17" picUrl="Upload/ss.jpg">data/pics1.xml</pics>
+</data>

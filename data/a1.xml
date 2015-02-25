@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<pics id="1" title="照片库1" picUrl="Upload/ss.jpg">data/pics1.xml</pics>
+	<pics id="2" title="照片库2" picUrl="Upload/ss.jpg">data/pics2.xml</pics>
+	<pics id="3" title="照片库3" picUrl="Upload/ss.jpg">data/pics3.xml</pics>
+</data>
